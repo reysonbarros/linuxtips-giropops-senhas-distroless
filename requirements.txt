@@ -1,0 +1,3 @@
+Flask==2.3.2
+redis==5.0.0rc2
+prometheus-client==0.16.0
